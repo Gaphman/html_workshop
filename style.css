@@ -72,3 +72,8 @@ nav {
 .contact {
     padding-bottom: 20px;
 }
+
+.navbar{
+    display: inline;
+    font-family: 'roboto';
+}
